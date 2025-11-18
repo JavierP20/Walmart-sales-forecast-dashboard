@@ -101,7 +101,7 @@ The dashboard highlights how external factors such as inflation (CPI), unemploym
 
 ## 📈 Preview
 
-![Overview Page] (screenshots/page1.png)
+![Overview Page] screenshots/page1.png
 ![Regional] (screenshots/page2.png)
 ![Correlation Page] (screenshots/page3.png)
 ![Insights Page] (screenshots/page4.png)
@@ -124,6 +124,7 @@ This project demonstrates:
 ---
 
 *Data Source: Walmart Recruiting – Store Sales Forecasting (Kaggle)*
+
 
 
 
